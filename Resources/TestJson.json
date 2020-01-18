@@ -1,0 +1,328 @@
+{
+  "contentItems": [
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "Table Of Contents:", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Title", "Subtitle", "TOCButton", "TOCButton", "TOCButton", "TOCButton", "TOCButton", "TOCButton", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "TableOfContentsMed", "TOC", "Table of Contents", "Contents and progress", "m_IntroTocButton", "m_C1TocButton", "m_C2TocButton", "m_C3TocButton", "m_C4TocButton", "m_C5TocButton", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Title", "Subtitle", "TOCButton", "TOCButton", "TOCButton", "TOCButton", "TOCButton", "TOCButton", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "TableOfContentsPharm", "TOC", "Table of Contents", "Contents and progress", "p_IntroTocButton", "p_C1TocButton", "p_C2TocButton", "p_C3TocButton", "p_C4TocButton", "p_C5TocButton", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "[TOC BUTTON] Intro TOC Button  ----------INTRO MENU SECTION-------------", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Text", "Section", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroTocButton", "TOCButton", "Introduction", "m_IntroSection1", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "[SECTION] Intro Menu Section 1----------------------", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Button", "Button", "Button", "Button", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1", "TOCMenuSection", "m_IntroSection1Button1", "m_IntroSection1Button2", "m_IntroSection1Button3", "m_IntroSection1Button4", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "Buttons that are in Section 1 of Introduction", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Text", "Target", "AvailableCondition", "VisitedCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button1", "Button", "Login", "m_IntroSection1Button1Panel", "m_IntroSection1Button1AvailCondition", "m_IntroSection1Button2AvailCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "ConditionType", "ConditionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button1AvailCondition", "Condition", "MilestoneNotReached", "UserCompletedFirstLogin", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "ConditionType", "ConditionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button1VisitedCondition", "Condition", "MilestoneReached", "UserCompletedFirstLogin", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Text", "Target", "AvailableCondition", "VisitedCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button2", "Button", "Purpose", "m_IntroSection1Button2Panel", "", "FALSE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "ConditionType", "ConditionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button2AvailCondition", "Condition", "MilestoneReached", "UserCompletedFirstLogin", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Text", "Target", "AvailableCondition", "VisitedCondition", "Action", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button3", "Button", "App Navigation", "m_IntroSection1Button3Panel", "", "ThisButtonPressed", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Text", "Target", "AvailableCondition", "VisitedCondition", "Action", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button4", "Button", "Pair with Partner", "m_IntroSection1Button4Panel", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "PANELS  ", "BUTTONS", "ACTIVITIES", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "Panels and their buttons of Chapter 1 Section 1", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Title", "Subtitle", "Button", "Button", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button1Panel", "ButtonPanelOptional", "Decide who you are", "Choose the appropriate way to login", "m_IntroSection1Button1Panel_Button1", "m_IntroSection1Button1Panel_Button2", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "VisitedCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "m_IntroSection1Button1Panel_Button1", "Button", "Medical Student", "LoginSuccessfulReading", "TRUE", "FALSE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "Title", "Subtitle", "BodyText", "CloseButtonTarget", "CloseButtonAction", "Action", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "LoginSuccessfulReading", "ActivityText", "Login Successful", "subtitle text!", "Welcome!  You have successfully logged in.  Please click close at the bottom right of the screen to continue.", "TableOfContentsMed", "FirstLoginSucceededAction", "LoginSuccessfulReadingFeedbackAction", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "FeedbackPositive", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "LoginSuccessfulReadingFeedbackAction", "Action", "ShowFeedback", "TRUE", "This is your “login-specific feedbackText.”  This text box is scrollable so a lot of feedback text can be typed here.  However, this feedback text will never be seen again, so if you want the player to be able to find it again, you should mention that.  This is your login-specific feedbackText.", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "FirstLoginSucceededAction", "Action", "AddMilestone", "UserCompletedFirstLogin", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "Title", "Subtitle", "BodyText", "CloseButtonTarget", "Action", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "LoginUnuccessfulReading", "ActivityText", "Login Unsuccessful", "Login failed", "Login was not successful. You may have chosen to register as a Med student Please contact your facilitator for support.    (This is only a demo, there was no actual logging in).", "TableOfContentsMed", "LoginUnsuccessfulReadingFeedbackAction", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "FeedbackPositive", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "LoginUnsuccessfulReadingFeedbackAction", "Action", "ShowFeedback", "FALSE", "This is the feedback text that you need to get help now, the app can't log in you because your connection failed, or your number did not match your choice of medvsPharm.  And this is only a demo, login does not work yet!", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "VisitedCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "m_IntroSection1Button1Panel_Button2", "Button", "Pharmacy Student", "LoginUnuccessfulReading", "TRUE", "FALSE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Title", "Subtitle", "Button", "Button", "Button", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button2Panel", "ButtonPanelOptional", "Intro and Purpose", "Optional readings, your choices are recorded", "IntroSection1Button2Panel_Button1", "IntroSection1Button2Panel_Button2", "IntroSection1Button2Panel_Button3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "IntroSection1Button2Panel_Button1", "Button", "Introduction", "IntroSection1_IntroductionReading", "TRUE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "Title", "Subtitle", "BodyText", "CloseButtonTarget", "CloseButtonAction", "Action", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "IntroSection1_IntroductionReading", "ActivityText", "Introduction to the App", "Interprofessional Education", "This app will give you a problem based training in interprofessional communication.", "IntroSection1Button2Panel", "", "IntroductionReadingFeedbackAction", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "FeedbackPositive", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "IntroductionReadingFeedbackAction", "Action", "ShowFeedback", "TRUE", "This is the text that the player sees when they have chosen to read the Introduction.", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "IntroSection1Button2Panel_Button2", "Button", "Purpose", "IntroSection1_PurposeReading", "TRUE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "Title", "Subtitle", "BodyText", "CloseButtonTarget", "CloseButtonAction", "Action", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "IntroSection1_PurposeReading", "ActivityText", "Purpose of the App", "Subtitle for purpose of the app", "This app will give you a problem based training in interprofessional communication.", "IntroSection1Button2Panel", "", "PurposeReadingFeedbackAction", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "FeedbackPositive", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "PurposeReadingFeedbackAction", "Action", "ShowFeedback", "TRUE", "This is the text that the player sees when they have chosen to read the Purpose.", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "IntroSection1Button2Panel_Button3", "Button", "Return to Table of Contents", "TableOfContentsMed", "TRUE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "ID", "ObjectType", "Title", "Subtitle", "Button", "Button", "Button", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "m_IntroSection1Button3Panel", "ButtonPanelOptional", "App Navigation", "This is the help menu", "IntroSection1Button3Panel_Button1", "IntroSection1Button3Panel_Button2", "IntroSection1Button3Panel_Button3", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "IntroSection1Button3Panel_Button1", "Button", "Using the Gear Menu", "IntroSection1_GearMenuReading", "TRUE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "Title", "Subtitle", "FileName", "BodyText", "Required", "SummaryText", "Points", "Action", "CloseButtonTarget", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "IntroSection1_GearMenuVideo", "ActivityVideo", "Using Gear Menu", "The help menu is gear menu", "GearMenuVideo.mov", "This is the text that goes under the video about the gear icon help menu.", "Optional", "You saw the Gear icon help menu video.  Clink on the gear icon any tomto open the App Navigation menu.", "1", "GearMenuVideoAction", "IntroSection1Button3Panel", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "FeedbackPositive", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "GearMenuVideoAction", "Action", "ShowFeedback", "TRUE", "You found the Gear menu, to find it again click on the gear icon on the top right.", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "IntroSection1Button3Panel_Button2", "Button", "Kinds of Buttons", "IntroSection1_ButtonPanelIMAGE", "TRUE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "Title", "Subtitle", "FileName", "BodyText", "Required", "SummaryText", "Points", "Action", "CloseButtonTarget", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "IntroSection1_ButtonPanelIMAGE", "ActivityImage", "Button Types", "There are several types of buttons in this app", "ButtonPanel.PNG", "This is the text that goes ABOVE the image about the Button Panels.  ", "Optional", "You saw the Button panel description image.", "1", "IntroSection1_ButtonPanelAction", "IntroSection1Button3Panel", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "ID", "ObjectType", "ActionType", "FeedbackPositive", "ActionText", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "IntroSection1_ButtonPanelAction", "Action", "ShowFeedback", "TRUE", "This is the text that the player sees when they have chosen to see the Button Types Image in the help menu.", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "ID", "ObjectType", "Text", "Target", "AvailableCondition", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "IntroSection1Button3Panel_Button3", "Button", "Return to Table of Contents", "TableOfContentsMed", "TRUE", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    },
+    {
+      "keys": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+      "values": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    }
+  ]
+}
